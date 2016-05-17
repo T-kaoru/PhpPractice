@@ -1,7 +1,7 @@
 <?php
 
 // 連休とお出かけ日
-    $data = "7 3";//fgets(STDIN);
+    $data = "1 1";//fgets(STDIN);
     $data = str_replace("\n", "", $data);
     $MN = explode(" ", $data);
 
